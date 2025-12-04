@@ -1,5 +1,2 @@
 streamlit
 pandas
-datetime
-locale
-random
